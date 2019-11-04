@@ -22,3 +22,4 @@ for name in names:
         for namee in namess:
             ren(path1, namee)
     ren(path, name)
+# new
