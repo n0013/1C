@@ -1,1 +1,1 @@
-Add on 1C.
+All on 1C.
